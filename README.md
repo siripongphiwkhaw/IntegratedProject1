@@ -1,1 +1,1 @@
-# integratedProject1
+# Information Technology Integrated Project 
